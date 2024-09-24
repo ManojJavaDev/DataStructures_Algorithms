@@ -12,6 +12,7 @@ public class AddElementToArray {
         arr[3] = 4;
         arr[4] = 5;
         arr[5] = 6;
+        // added a comment to add elements
 
         System.out.println(Arrays.toString(arr));
     }
