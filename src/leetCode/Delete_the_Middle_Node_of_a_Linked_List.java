@@ -8,7 +8,7 @@ public class Delete_the_Middle_Node_of_a_Linked_List {
 
         ListNode() {
         }
-
+//added
         ListNode(int val) {
             this.val = val;
         }
