@@ -26,7 +26,7 @@ public class Odd_Even_Linked_List {
         ListNode even = head.next;
 
         ListNode temp = even;
-//added
+//added 1
         while (even != null && even.next != null) {
             odd.next = odd.next.next;
             even.next = even.next.next;
